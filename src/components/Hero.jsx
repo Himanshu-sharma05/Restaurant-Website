@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='p-10 px-30 flex  '>
+    <div className='p-10 px-30 flex'>
         <div className="left mt-20 w-1/2 flex flex-col gap-5">
             <div className='flex gap-5 font-[Nunito] font-bold text-7xl'>
             <h1>Desire</h1>
